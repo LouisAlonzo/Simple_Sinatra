@@ -1,16 +1,12 @@
-# SimpleWeb
+# Simple Sinatra Sample.
 
-A trivial app to demonstrate serving of static content using the Sinatra framework in Ruby.
-
-Some sample / placeholder content is provided (styled with Bootstrap) but the expectation is that the user will replace the contents of the ``public`` directory with files for static serving by the Ruby app.
-
+Describing how to use sinatra in Ruby.
 
 ## Overview
 
 This example uses:
 
 - [Sinatra](http://www.sinatrarb.com/)
-- [Bootstrap](http://twitter.github.com/bootstrap/) for visual sugar
 
 ## Deployment
 
