@@ -1,0 +1,6 @@
+---
+applications:
+- name: simplewebrb
+  memory: 128M
+  instances: 1
+  host: simplewebrb

@@ -1,0 +1,13 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Developer: Andy Piper
+  Site: http://andypiper.co.uk/
+  Twitter: @andypiper
+  Location: UK
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Bootstrap, Sinatra, Github Fork Ribbon CSS
+  Software: Comic Ipsum, Fillerama, Lebowski Ipsum
